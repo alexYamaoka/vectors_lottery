@@ -1,0 +1,13 @@
+Script started on Thu Jun 27 23:52:00 2019
+[?1034hbash-3.2$ make all
+g++	-std=c++14 -Wall -g	vectorsSTL.cpp	-o	vectorsSTL
+bash-3.2$ ./vectorsSTL
+
+Using STL vectors to chose winning numbers in a lottery
+
+The Winning Numbers
+10 29 35 39 47 48 
+bash-3.2$ exit
+exit
+
+Script done on Thu Jun 27 23:52:12 2019
